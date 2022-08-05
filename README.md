@@ -4,8 +4,8 @@
 人工智能是一个非常早而且宽泛的概念。后来人工智能逐渐具体化，机器学习是人工智能最主要的一个分支，以此来实现人工智能。后来随着机器学习和电脑的发展，人们又提出了神经网络算法，这个算法可以模拟人类的大脑决策过程，所以得到了长足的发展，现在依旧非常火。最近一段时间人工智能呼之欲出，更多的人随之研究，因而提出了更好的算法，深度学习算法。深度学习算法和神经网络算法都是模仿人类的大脑细胞，不同之处在于深度学习算法的神经网络层数非常的多，所以称为深度学习。<br>
 
 ### 2	机器学习算法种类
-
-### 3	优化算法实现
+机器学习算法种类很多主要是：线性回归，Logistic 回归，线性判别分析，分类和回归树，朴素贝叶斯，K 最近邻算法，学习向量量化，支持向量机，袋装法和随机森林，Boosting 和 AdaBoost，反向传递神经网络，图论推理算法，回归树（Classification And Regression Tree， CART）， ID3 (Iterative Dichotomiser 3)， C4.5，人工神经网络，重要的人工神经网络算法包括：感知器神经网络（Perceptron Neural Network）， 反向传递（Back Propagation）， Hopfield网络，自组织映射（Self-Organizing Map， SOM）。学习矢量量化（Learning Vector Quantization， LVQ）。深度学习，常见的深度学习算法包括：受限波尔兹曼机（Restricted Boltzmann Machine， RBN）， Deep Belief Networks（DBN），卷积网络（Convolutional Network）， 堆栈式自动编码器（Stacked Auto-encoders）。
+### 3	优化算法实现分类和回归树
 ##### 3.1	源代码
 ###### 3.1.1	部分源代码参考
 参考地址如下：https://github.com/guofei9987/scikit-opt  <br>
